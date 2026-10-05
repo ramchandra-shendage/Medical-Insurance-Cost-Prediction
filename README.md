@@ -1,8 +1,5 @@
 # Medical-Insurance-Cost-Prediction
 ACME Insurance Inc. offers affordable health insurance to thousands of customer all over the United States . The task to  create an automated system to estimate the annual medical expenditure for new customers, using information such as their age, sex, BMI, children, smoking habits and region of residence. 
-# Medical Insurance Payout Prediction
-
-This project is about predicting **medical insurance charges** based on factors such as age, BMI, number of children, smoking status, sex, and region.
 
 I used three regression models in this project:
 
